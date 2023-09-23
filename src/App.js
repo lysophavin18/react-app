@@ -6,7 +6,7 @@ function Mybutton() {
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to my App</h1>
+      <h1>My first button</h1>
       <Mybutton />
     </div>
   );
